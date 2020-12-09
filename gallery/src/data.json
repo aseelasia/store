@@ -1,0 +1,107 @@
+[
+	{
+        "Categories":"Front-End Developer",
+        "JopTypes":"Volunteer",
+        "CompanyName":"GFA1",
+        "JobLevel":"Executive",
+		"City": "Mumbai"
+	},
+	{
+        "Categories":"Front-End Developer",
+        "JopTypes":"Full-time",
+        "CompanyName":"GFA2",
+        "JobLevel":"Executive",
+		"City": "Delhi"
+	},
+	{
+        "Categories":"Back-End Developer",
+        "JopTypes":"Full-time",
+        "CompanyName":"GFA1",
+        "JobLevel":"Executive",
+		"City": "Shimla"
+	},
+	{
+        "Categories":"Back-End Developer",
+        "JopTypes":"Full-time",
+        "CompanyName":"GFA2",
+        "JobLevel":"Junior",
+		"City": "Shimla"
+	},
+	{
+        "Categories":"Back-End Developer",
+        "JopTypes":"Part-time",
+        "CompanyName":"GFA2",
+        "JobLevel":"Junior",
+		"City": "Bangalore"
+	},
+	{
+        "Categories":"Back-End Developer",
+        "JopTypes":"Full-time",
+        "CompanyName":"GFA3",
+        "JobLevel":"Junior",
+		"City": "Mumbai"
+	},
+	{
+        "Categories":"Full-Stack Developer",
+        "JopTypes":"Freelance",
+        "CompanyName":"GFA2",
+        "JobLevel":"Senior",
+		"City": "Delhi"
+	},
+	{
+        "Categories":"Full-Stack Developer",
+        "JopTypes":"Part-time",
+        "CompanyName":"GFA1",
+        "JobLevel":"Junior",
+		"City": "Mumbai"
+	},
+	{
+        "Categories":"Full-Stack Developer",
+        "JopTypes":"Full-time",
+        "CompanyName":"GFA1",
+        "JobLevel":"Junior",
+		"City": "Bangalore"
+	},
+	{
+        "Categories":"Full-Stack Developer",
+        "JopTypes":"Part-time",
+        "CompanyName":"GFA1",
+        "JobLevel":"Senior",
+		"City": "Mumbai"
+	},
+	{
+        "Categories":"Full-Stack Developer",
+        "JopTypes":"Full-time",
+        "CompanyName":"GFA2",
+        "JobLevel":"Junior",
+		"City": "Chennai"
+	},
+	{
+        "Categories":"Full-Stack Developer",
+        "JopTypes":"Full-time",
+        "CompanyName":"GFA2",
+        "JobLevel":"Junior",
+		"City": "Delhi"
+	},
+	{
+        "Categories":"Data Science",
+        "JopTypes":"Intership",
+        "CompanyName":"GFA2",
+        "JobLevel":"Junior",
+		"City": "Chennai"
+	},
+	{
+        "Categories":"Data Science",
+        "JopTypes":"Full-time",
+        "CompanyName":"GFA2",
+        "JobLevel":"Junior",
+		"City": "Shimla"
+	},
+	{
+        "Categories":"Data Science",
+        "JopTypes":"Part-time",
+        "CompanyName":"GFA2",
+        "JobLevel":"Senior",
+		"City": "Mumbai"
+    }
+]

@@ -1,0 +1,44 @@
+.each-slide > div {
+    display: flex;
+    background-size: cover;
+    height: 75vh; 
+  }
+  
+  .each-slide{
+    height: 75vh;    
+  }
+
+  .slideText{
+    background-color: #efefef7e;
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+  }
+
+  .slideText span {
+    padding-left: 50px;
+    padding-top: 70px;
+    padding-bottom: 50px;
+    padding-right: 50px;
+    font-size: 100px;
+    text-align: center;
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    color: rgb(172, 141, 58);
+  }
+  .slideText h3 {
+    padding-left: 50px;
+    padding-top: 10px;
+    padding-bottom: 50px;
+    padding-right: 50px;
+    text-align: center;
+    font-family: Times, Times New Roman, Georgia, serif;
+  }
+
+  .slideText h5 {
+    padding-left: 50px;
+    padding-top: 10px;
+    padding-bottom: 50px;
+    padding-right: 50px;
+    text-align: center;
+    font-family: Times, Times New Roman, Georgia, serif;
+  }
